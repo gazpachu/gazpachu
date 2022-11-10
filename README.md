@@ -4,7 +4,7 @@ I'm a generalist front-end engineering manager with a knack for **delightful** a
 
 I have extensive industry experience. From established brands like [British Telecom](https://bt.com), [Vodafone](https://vodafone.com), [Unilever](https://unilever.com), [Royal Opera House](https://roh.org.uk) or [M&S](https://marksandspencer.com) to tech start-ups like [TableCheck](https://www.tablecheck.com/en/join).
 
-- 🔭 I’m currently working at [TableCheck](https://www.tablecheck.com/en/join), managing a global team of 9 front-end engineers (in Asia and Europe) working on different projects. Together we have built [TableKit](https://www.joanmira.com/work/tablekit/), TableCheck's Design System. We are working on the 3rd version now, which will use CSS variables, super accessible UI components and have a very lightweight JS footprint! We are inspired by [PicoCSS](https://picocss.com/), [Primer](https://primer.style/) and [Style Dictionary](https://www.style-dictionary-play.dev/).
+- 🔭 I’m currently working as a freelance for some clients and [at my own studio](https://www.joanmira.com) on a couple of tech projects that could become tech start-ups.
 
 - 👯 In the future, I’m looking to collaborate with other engineers and finish building [Hypatia](https://github.com/gazpachu/hypatia), the React [LMS](https://en.wikipedia.org/wiki/Learning_management_system) I started a few years ago. A lot of people showed interested in the project and I feel that this open source story needs to continue, since the aim is to give something back to the OSS community and to the world that can make education a bit better 💙
 
