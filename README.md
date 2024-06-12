@@ -12,6 +12,6 @@ I have extensive industry experience. From established brands like [British Tele
 
 - 💬 Ask me about anything
 
-- ⚡ Fun fact: I have many interests and hobbies but, even if I've been building websites for 20+ years, I still get excited with the idea of building a new one, even if it's a small one! I really love the Internet... 😉
+- ⚡ Fun fact: I have many interests and hobbies but, even if I've been building websites and apps for 20+ years, I still get excited with the idea of creating a new one, even if it's a small one!
 
 For more info, please check [my website](https://www.joanmira.com).
